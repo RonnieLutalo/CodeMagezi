@@ -1,4 +1,4 @@
-# TondaCode Roadmap
+# CodeMagezi Roadmap
 
 ## Overview
 
