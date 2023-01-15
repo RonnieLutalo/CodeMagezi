@@ -11,4 +11,4 @@ As developers, we constantly strive to write high-quality, efficient code. Howev
 
 ### Contributing
 
-Currently, this project is a **Work In Progress** and more information will be rolling out very soon on how you can contribute. However, In the meantime you can read the Product Roadmap here and contribute by making suggestions in a form of writing issues which will be responded to by the maintainer.
+Currently, this project is a **Work In Progress** and more information will be rolling out very soon on how you can contribute. However, In the meantime you can read the [Product Roadmap here](https://github.com/RonnieLutalo/CodeGenie/blob/main/roadmap.md) and contribute by making suggestions in a form of writing issues which will be responded to by the maintainer.
