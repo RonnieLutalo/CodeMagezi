@@ -11,4 +11,4 @@ As developers, we constantly strive to write high-quality, efficient code. Howev
 
 ### Contributing
 
-Currently, this project is a **Work In Progress** and in the Research and development phase. More information will be rolling out very soon. However, in the meantime you can read our [Product Roadmap here](https://github.com/RonnieLutalo/CodeGenie/blob/main/roadmap.md). You can also contribute by making suggestions in the form of writing [issues](https://github.com/RonnieLutalo/CodeGenie/issues) which will be responded to by the maintainer.
+Currently, this project is a **Work In Progress** and in the Research and development phase. More information will be rolling out very soon. However, in the meantime you can read our [Product Roadmap here](https://github.com/RonnieLutalo/TelezaCode/blob/main/roadmap.md). You can also contribute by making suggestions in the form of writing [issues](https://github.com/RonnieLutalo/CodeGenie/issues) which will be responded to by the maintainer.
