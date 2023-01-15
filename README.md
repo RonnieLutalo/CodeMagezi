@@ -1,8 +1,8 @@
-# CodeGenie
+# TondaCode
 
 ### Overview
 
-CodeGenie is a Visual Studio extension that utilizes the power of the ChatGPT API to assist developers in improving the efficiency of their code. The extension provides real-time code analysis, code generation, code comparison, integration with other tools, error detection and machine learning capabilities.
+TondaCode is a Visual Studio extension that utilizes the power of the ChatGPT API to assist developers in improving the efficiency of their code. The extension provides real-time code analysis, code generation, code comparison, integration with other tools, error detection and machine learning capabilities.
 
 
 ### Motivation
